@@ -1,0 +1,10 @@
+---
+layout: post
+title: Hola mundo
+---
+
+h1. {{ page.title }}
+
+p(meta). 06 Ago 2012 - Guadalajara
+
+Hola mundo.
