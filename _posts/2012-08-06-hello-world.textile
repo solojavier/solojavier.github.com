@@ -1,0 +1,14 @@
+---
+layout: post
+title: Hello World
+---
+
+h1. {{ page.title }}
+
+p(meta). 06 Ago 2012 - GDL MX
+
+Hello World. I've decided to create a personal blog to post entirely in github. Here I will start to share some of my ideas and I hope someone would be interested out there. 
+
+This is also a first step towards creating a blog with my geek co-workers at "wowzer":http://www.wowzer.com . So this is just a little test to see if it's viable or we should all just go to wordpress or something like that.
+
+:)
